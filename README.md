@@ -15,6 +15,8 @@ and just fill database username and password, default username is Administrator 
 
 Screen Shorts
 ---------------------------------------------------------------------------------------
+http://s21.postimg.org/tpnayz4s5/best_mantis_updated_UI.jpg
+
 ![Picture](http://s21.postimg.org/tpnayz4s5/best_mantis_updated_UI.jpg)
 
 
