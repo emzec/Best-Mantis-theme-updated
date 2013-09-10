@@ -13,4 +13,10 @@ Installation Directory: mantis
 you need to follow the link http://yourdomain.com/mantis 
 and just fill database username and password, default username is Administrator and password is root.
 
+Screen Shorts
+---------------------------------------------------------------------------------------
+![alt tag](https://raw.github.com/emzec/Best-Mantis-theme-updated/best-mantis-updated-home.jpg)
+
+
+
 THATS IT, ENJOY
