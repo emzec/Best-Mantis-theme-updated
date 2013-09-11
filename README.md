@@ -17,7 +17,7 @@ Screen Shorts
 ---------------------------------------------------------------------------------------
 http://s21.postimg.org/tpnayz4s5/best_mantis_updated_UI.jpg
 
-![Picture](http://s21.postimg.org/tpnayz4s5/best_mantis_updated_UI.jpg)
+![Picture](https://raw.github.com/emzec/Best-Mantis-theme-updated/f6363e8b8a241627fce80afb06a97c92dd15eea8/best-mantis-updated-home.jpg)
 
 
 
